@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+cadquery
+ocp_vscode  # For visualization
+openai
+python-singleton
+docker
